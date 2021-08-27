@@ -8,8 +8,8 @@ Hi! this is my skin of Rainmeter for Time Prayer
 
 
 
-## Change your city
+## Change the city
 
-edit the **url** for each file `.ini` after the **[Variables]** line 
+Edit the **url** for each file `.ini` after the **[Variables]** line 
 
 
