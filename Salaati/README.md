@@ -2,19 +2,17 @@
 
 Full Size
 
-![image](https://github.com/user-attachments/assets/3de5863e-4215-4a60-9d5c-cced3c33b737)
-
-
+![image](https://github.com/user-attachments/assets/30a1c946-ba6f-44ea-b220-e83a7446d35a)
 
 
 Mini Size
 
-![image](https://github.com/user-attachments/assets/1741288e-dfad-49e9-844c-6b6e95573cd6)
+![image](https://github.com/user-attachments/assets/8f389f95-08fc-47c0-98d8-c43c61542e0f)
 
-
-Time to prayer!
-
-![image](https://github.com/user-attachments/assets/ac884b38-071b-4dfd-8902-eeb9dac266f1)
-
+#change log:
+- Add Remain prayer bar.
+- Add seconds blink effect.
+- Add phrase "now time for prayer".
+- More fixes and performance improvements.
 
 * this widget using [islamicfinder](https://www.islamicfinder.org/widgets/#prayertimeswidget) for grab prayer time 
