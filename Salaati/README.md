@@ -1,4 +1,4 @@
-#Salaati 2.0
+#Salaati 2.6
 
 Full Size
 
@@ -9,6 +9,10 @@ Mini Size
 
 ![image](https://github.com/user-attachments/assets/8f389f95-08fc-47c0-98d8-c43c61542e0f)
 
-
+#change log:
+- Add Remain prayer bar.
+- Add seconds blink effect.
+- Add phrase "now time for prayer".
+- More fixes and performance improvements.
 
 * this widget using [islamicfinder](https://www.islamicfinder.org/widgets/#prayertimeswidget) for grab prayer time 
