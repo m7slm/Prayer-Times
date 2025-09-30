@@ -25,7 +25,7 @@
 ## Very important!
 <img width="491" height="485" alt="image" src="https://github.com/user-attachments/assets/c0aa6ef0-8c76-45fc-82c3-28b05b7773ae" /><br>
    **❗️ be sure to install all plugins coming with skin installer**
-[ [Download PrayerTimes skin](https://github.com/m7slm/Prayer-Times/releases/download/v3.0/PrayerTimes_3.0.rmskin) ]
+[ [Download PrayerTimes skin installer](https://github.com/m7slm/Prayer-Times/releases/download/v3.0/PrayerTimes_3.0.rmskin) ]
 
 ## Multilanguage
 <img width="714" height="583" alt="image" src="https://github.com/user-attachments/assets/b4340fed-2a97-4a76-8113-461d4bec4300" /> <br>
