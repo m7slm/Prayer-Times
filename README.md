@@ -1,5 +1,5 @@
-<img width="396" height="63" alt="image" src="https://github.com/user-attachments/assets/5ab6a6a5-ae91-47d5-b08f-959141eb5ba1" /> <br>
-<img width="714" height="583" alt="image" src="https://github.com/user-attachments/assets/b4340fed-2a97-4a76-8113-461d4bec4300" /> <br>
+<img width="708" height="708" alt="cover" src="https://github.com/user-attachments/assets/1382f998-d23b-43ff-aa63-850264948092" /><br>
+
 
 # PrayerTimes 3.0 (formerly Salaati):
 ## a new prayer times Rainmeter skin with a modern design for Rainmeter, specifically created to notify you of prayer times and remind you at the moment each prayer begins - works offline. 
@@ -23,19 +23,21 @@
 > **ProTip:** You can active **"Transparency Effects"** in windows 11 by going to **Settings** > **personalization**> set **Transparency Effects** on
 
 ## Very important!
-<img width="491" height="485" alt="image" src="https://github.com/user-attachments/assets/c0aa6ef0-8c76-45fc-82c3-28b05b7773ae" /><br>
+<img width="504" height="489" alt="image" src="https://github.com/user-attachments/assets/f100266a-1887-4127-9363-0e28a5295ccd" /><br>
    **❗️ be sure to install all plugins coming with skin installer**
 [ [Download PrayerTimes skin installer](https://github.com/m7slm/Prayer-Times/releases/download/v3.0/PrayerTimes_3.0.rmskin) ]
 
 ## Multilanguage
-<img width="714" height="583" alt="image" src="https://github.com/user-attachments/assets/b4340fed-2a97-4a76-8113-461d4bec4300" /> <br>
+<img width="658" height="615" alt="image" src="https://github.com/user-attachments/assets/4b0b7bde-c693-4b60-9f16-ae9d5c169c2f" /><br>
+
  - Enjoy the skin experience with more than 10 languages.
    
 
 ## Complete settings
-<img width="437" height="420" alt="image" src="https://github.com/user-attachments/assets/199eecd0-bbc0-422c-bd4c-8ea1db1d3b13" /><br>
+<img width="463" height="442" alt="image" src="https://github.com/user-attachments/assets/5fcac448-6334-4047-9b4f-b070f5290a1d" /><br>
+
  - Customize the interface as you wish, such as language, country, and even the calculation method.
 
 ## Mini size 
-<img width="290" height="150" alt="image" src="https://github.com/user-attachments/assets/1e48dabe-f159-41c0-b63c-8a2339ee324a" /><br>
+<img width="345" height="276" alt="image" src="https://github.com/user-attachments/assets/5ab344f0-49db-4873-89be-ac2095dcdcdf" /><br>
  - You can hide prayer times and just show the remaining prayer time.
