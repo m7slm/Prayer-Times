@@ -1,7 +1,7 @@
 <img width="396" height="63" alt="image" src="https://github.com/user-attachments/assets/5ab6a6a5-ae91-47d5-b08f-959141eb5ba1" /> <br>
 <img width="714" height="583" alt="image" src="https://github.com/user-attachments/assets/b4340fed-2a97-4a76-8113-461d4bec4300" /> <br>
 
-# PrayerTimes 3.0 (formerly Salati):
+# PrayerTimes 3.0 (formerly Salaati):
 ## a new prayer times Rainmeter skin with a modern design for Rainmeter, specifically created to notify you of prayer times and remind you at the moment each prayer begins - works offline. 
 
 ## Main Features
