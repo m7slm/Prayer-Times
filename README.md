@@ -36,7 +36,7 @@
 ## Complete settings
 <img width="463" height="442" alt="image" src="https://github.com/user-attachments/assets/5fcac448-6334-4047-9b4f-b070f5290a1d" /><br>
 
- - Customize the interface as you wish, such as language, country, and even the calculation method.
+ - Customize the interface as you need, such as language, country, and even the calculation method.
 
 ## Mini size 
 <img width="345" height="276" alt="image" src="https://github.com/user-attachments/assets/5ab344f0-49db-4873-89be-ac2095dcdcdf" /><br>
