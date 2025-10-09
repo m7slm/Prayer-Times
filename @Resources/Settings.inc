@@ -3,7 +3,7 @@
 ; =================================================================
 
 [Variables]
-CurrentVersion=3.5
+CurrentVersion=5.4
 ; --- Location Settings ---
 Language=English
 RegionA=Middle East
@@ -19,4 +19,5 @@ Timezone=3
 CalcMethod=Makkah
 AsrMethod=Standard
 SkinHeight=400
+
 
