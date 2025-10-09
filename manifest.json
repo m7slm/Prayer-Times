@@ -1,0 +1,10 @@
+{
+  "version": "3.2",
+  "files": [
+    "PrayerTimes.ini",
+    "@Resources\\PrayerTimeEngine.lua",
+    "@Resources\\Settings.inc",
+    "@Resources\\Languages\\Arabic.inc",
+    "@Resources\\Languages\\English.inc"
+  ]
+}
