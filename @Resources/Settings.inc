@@ -3,7 +3,7 @@
 ; =================================================================
 
 [Variables]
-CurrentVersion=5.4
+CurrentVersion=3.2
 ; --- Location Settings ---
 Language=English
 RegionA=Middle East
@@ -13,11 +13,9 @@ City=Makkah
 Latitude=21.389082222222
 Longitude=39.857911666667
 Timezone=3
-
 ; --- Calculation Method Settings ---
-
 CalcMethod=Makkah
 AsrMethod=Standard
-SkinHeight=400
+
 
 
