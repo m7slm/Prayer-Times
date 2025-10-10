@@ -145,4 +145,8 @@ function Update()
     SKIN:Bang('!SetVariable', 'Progress', progress)
     
     -- No need to call !Update or !Redraw here, the main skin handles that.
+    local offsetSeconds = os.date('%z')
+    local offsetHours = tonumber(offsetSeconds) / 100
+    SKIN:Bang('!SetVariable', 'SysTZ', offsetHours)
+
 end
